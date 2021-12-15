@@ -1,0 +1,17 @@
+title: Databases
+author: Eugene Zuev
+theme: jekyll-theme-cayman
+branch: "main" #  use "master" for user page or "gh-pages" for project pages
+# exclude:
+#   - .gitignore
+# paginate_path: "/about/page:num/"
+
+navbar-links:
+  About Me: "https://zhekazuev.github.io"
+  Resources:
+  Author's home: "https://github.com/zhekazuev"
+
+social-network-links:
+  email: "zhekazuev@gmail.com"
+  github: zhekazuev
+  linkedin: zhekazuev
